@@ -1,0 +1,18 @@
+doctype html
+html
+    head
+        style 
+
+    body
+        h1 Voici le contenu du fichier #{fileName}
+
+        table
+                tr  
+                    th userName 
+                    th city
+
+                each value in content
+                    tr
+                        td #{value.user}
+                        td #{value.city}
+
