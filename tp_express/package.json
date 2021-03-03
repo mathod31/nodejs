@@ -13,6 +13,6 @@
     "express": "^4.17.1",
     "fs": "0.0.1-security",
     "http": "0.0.1-security",
-    "pug": "^3.0.0"
+    "pug": "^3.0.1"
   }
 }
